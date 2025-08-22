@@ -71,7 +71,7 @@ export default function EmpresasPage() {
                       </Button>
                     )}
                     <Button size="sm" asChild>
-                      <Link href={`/empresas/${company.id}`}>Ver Vagas</Link>
+                      <Link href={`/empresas/${company.id}`}>Ver empresa</Link>
                     </Button>
                   </div>
                 </div>
